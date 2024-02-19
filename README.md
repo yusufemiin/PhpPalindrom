@@ -9,9 +9,9 @@ Bu kod geliştiricilere temel ve örnek sağlaması açısından kullanılabilir
 
 Projede kullanılan başlıca teknolojiler şunlardır:
 
-- **React**: Web uygulamamızın kullanıcı arayüzü için kullanılan sunucu taraflı bir programlama dilidir.
+- **PHP**: Web uygulamamızın kullanıcı arayüzü için kullanılan sunucu taraflı bir programlama dilidir.
 - **HTML**: Web uygulamamızın yapılandırılmasını sağlayan bir işaretleme dilidir.
-- 
+  
 ## Proje Görünümü
 
 ![.](/images/foto.jpg)
