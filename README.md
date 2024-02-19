@@ -1,19 +1,17 @@
-# MernNotDefteri Projesi
+# PhpPalindrom Projesi
 
-Bu proje, MERN STACK teknolojisiyle geliştirilen "IRKI Not Defteri" adlı bir not defteri sitesidir. 
-Projede not alınabilmekte, notlara güncelleme yapılabilmekte ve notlar silinebilmektedir.
-Ama bu özelliklerden güncelleme ve silme özelliği sadece backendde mevcuttur, frontendi geliştirici arkadaşlar kendileri denesinler diye onların yorumuna bırakılmıştır.
+Bu proje, Php diliyle geliştirilen "PhpPalindrom" adlı bir projedir. 
+Proje, kodda belirtilen metinin içinden palindrom olan (Palindrom, tersten okunduğunda da aynı anlamı koruyan bir kelime veya cümledir) kelimeleri ekrana yazdırır.
+Geliştiriciler isterlerse metini direkt kullanıcıya girdirdikleri versiyonu veya daha şık bir tasarım yapabilirler. 
+Bu kod geliştiricilere temel ve örnek sağlaması açısından kullanılabilir.
 
 ## Kullanılan Teknolojiler
 
 Projede kullanılan başlıca teknolojiler şunlardır:
 
-- **React**: Web uygulamamızın kullanıcı arayüzü için kullanılan bileşen tabanlı bir JavaScript kütüphanesidir.
-- **Express**: Sunucu tarafı mantığını yönetmek için kullanılan hızlı, esnek ve minimalist bir Node.js web uygulama çerçevesidir.
-- **HTML, CSS ve JavaScript**: Kullanıcı arayüzünün tasarımı ve etkileşimi için kullanılmıştır.
-- **Node.js**: Sunucu tarafında JavaScript çalıştırmak için kullanılan bir çalışma zamanı ortamıdır.
-- **MongoDB**: JSON benzeri belgelere dayalı bir NoSQL veritabanı sistemi olan MongoDB, verileri saklamak için kullanılır.
-
+- **React**: Web uygulamamızın kullanıcı arayüzü için kullanılan sunucu taraflı bir programlama dilidir.
+- **HTML**: Web uygulamamızın yapılandırılmasını sağlayan bir işaretleme dilidir.
+- 
 ## Proje Görünümü
 
 ![.](/images/foto.jpg)
